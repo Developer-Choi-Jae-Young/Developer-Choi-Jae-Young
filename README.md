@@ -15,3 +15,7 @@ It is Comfrim
 Developer-Choi-Jae-Young/Developer-Choi-Jae-Young is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+이 repository code는 https://github.com/conf312/board_study 여기서 참조함.
+젠킨스 Devops용도로 사용
