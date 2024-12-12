@@ -40,7 +40,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://dev-report.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-red?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:cjy951213@naver.com">
